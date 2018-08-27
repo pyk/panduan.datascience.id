@@ -23,6 +23,7 @@ role lain bisa kontak saya melalui email:
 
 Good Luck ya! 🙌
 
+[Download Slide](https://www.slideshare.net/bayual/panduan-untuk-memulai-karir-di-data-science)
 
 <a class="twitter-share-button"
   href="https://twitter.com/intent/tweet"
