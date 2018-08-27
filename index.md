@@ -23,7 +23,15 @@ role lain bisa kontak saya melalui email:
 
 Good Luck ya! 🙌
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet"
+  data-size="large">
+Tweet</a>
+<div class="fb-share-button" data-href="https://panduan.datascience.id/" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpanduan.datascience.id%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a>
+</div>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/pyk/panduan.datascience.id" data-size="large" data-show-count="true" aria-label="Star pyk/panduan.datascience.id on GitHub">Star</a>
 
 ![Panduan Memulai Karir di Data Science Cover](/assets/panduan-memulai-karir-di-data-science-cover.png "Panduan Memulai Karir di Data Science Cover")
 
@@ -73,5 +81,6 @@ Good Luck ya! 🙌
 
 ![Panduan Memulai Karir di Data Science 22](/assets/panduan-memulai-karir-di-data-science-22.png "Panduan Memulai Karir di Data Science 22")
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
