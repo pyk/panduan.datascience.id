@@ -10,18 +10,24 @@ title: Panduan Memulai Karir di Data Science
 
 Halo 👋
 
-Ini merupakan panduan untuk berkarir di datascience untuk umum.
-Materi ini saya sampaikan pada acara
-"*Data Science for Industry 4.0 Ecosystem*", **Gemini 2018** pada tanggal
-26 Agustus 2018 di **Institut Teknologi Adhi Tama Surabaya**, Indonesia.
+Bagaimana cara memulai karir di data science?
+Pertanyaan ini dibahas dan di diskusikan pada acara
+*Data Science for Industry 4.0 Ecosystem*, Gemini 2018,
+bersama mahasiswa Institut Teknologi Adhi Tama Surabaya,
+Indonesia.
 
 Panduan ini hanya membahas tentang 3 role, yaitu: *Data Scientist*,
 *Data Engineer* dan *Business Intelligence*.
+
 Jika ada pertanyaan, koreksi atau ingin menambahkan panduan untuk
 role lain bisa kontak saya melalui email:
 [bay@machinelearning.id](mailto:bay@machinelearning.id).
 
 Good Luck ya! 🙌
+
+### Pembaruan
+- 2018/08/27 Pembaruan pekerjaan utama dan kemampuan yang harus dimiliki *Business Intelligence*.
+  Credit to Rhesa Austen, BI Kumparan.
 
 [Download Slide](https://www.slideshare.net/bayual/panduan-untuk-memulai-karir-di-data-science)
 
