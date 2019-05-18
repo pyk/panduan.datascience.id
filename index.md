@@ -11,10 +11,15 @@ title: Panduan Memulai Karir di Data Science
 Halo 👋
 
 Bagaimana cara memulai karir di data science?
-Pertanyaan ini dibahas dan di diskusikan pada acara
-*Data Science for Industry 4.0 Ecosystem*, Gemini 2018,
+Pertanyaan ini dibahas dan di diskusikan pada
+acara-acara berikut:
+
+1. *Data Science for Industry 4.0 Ecosystem*, Gemini 2018,
 bersama mahasiswa Institut Teknologi Adhi Tama Surabaya,
 Indonesia.
+2. Ngabuburit Data DSI Jatim x Kumparan, Data Science Indonesia
+regional Jawa Timur, bersama mahasiswa Universitas 17 Agustus 1945
+Surabaya, Indonesia.
 
 Panduan ini hanya membahas tentang 3 role, yaitu: *Data Scientist*,
 *Data Engineer* dan *Business Intelligence*.
